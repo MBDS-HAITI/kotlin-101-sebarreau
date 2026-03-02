@@ -2,8 +2,11 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+<<<<<<< HEAD
 
 ### Kotlin ###
+=======
+>>>>>>> 32550b2 (Add Kotlin exercises Lesson 1)
 .kotlin
 
 ### Eclipse ###
@@ -30,3 +33,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# IntelliJ / Android Studio
+*.iml
+.idea/
+out/
+

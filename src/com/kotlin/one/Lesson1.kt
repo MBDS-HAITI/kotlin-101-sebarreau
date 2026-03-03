@@ -1,4 +1,4 @@
-package com.android.com.kotlin.one
+package com.kotlin.one
 
 fun main() {
 

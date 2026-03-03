@@ -71,7 +71,7 @@ fun fibonacci(n: Int): Int {
 
 
 fun miniCalculator() {
-    println("🔢 Simple Calculator")
+    println(" Simple Calculator")
 
     print("Enter first number: ")
     val a = readln().toDoubleOrNull()
